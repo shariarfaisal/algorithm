@@ -1,5 +1,4 @@
-//
-//
+
 // function anagrams(strA,strB){
 //   strA = strA.toLowerCase().replace(/[\W_]+/g,'')
 //   strB = strB.toLowerCase().replace(/[\W_]+/g,'')
